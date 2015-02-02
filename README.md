@@ -5,6 +5,6 @@ Follow this video walkthrough (Swift version). In the recent version of Xcode, t
 Augment the tip calculator app with a settings view. Review these hints (Swift version) to complete this task. COMPLETE
 OPTIONAL: The Tip calculator has a very primitive UI. Feel free to play with colors, layout, or even modify the UI to improve it DID NOT
 
+![alt tag](https://github.com/aldenaik/swiftTip/blob/master/gif/Tip.gif)
 
-<img src="(https://github.com/aldenaik/swiftTip/blob/master/gif/Tip.gif)">"
   
